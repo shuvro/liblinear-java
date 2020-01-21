@@ -1,0 +1,11 @@
+.*
+*.class
+*.o
+
+!.gitignore
+!.travis.yml
+
+build/
+data/
+project/
+target/
